@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'Take heapdumps and save them into S3',
-  name: 'arunoda:heapsave',
+  name: 'hiukim:heapsave',
   summary: 'Wrapper around googleapis.drive',
   version: '0.1.5',
   git: 'https://github.com/arunoda/meteor-heapsave'
