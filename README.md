@@ -6,7 +6,7 @@ Take Heapdump and save them into S3
 ## Install
 
 ```
-meteor add arunoda:heapsave
+meteor add npvn:heapsave
 ```
 
 ## Usage

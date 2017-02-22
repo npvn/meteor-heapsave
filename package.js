@@ -1,9 +1,8 @@
 Package.describe({
   summary: 'Take heapdumps and save them into S3',
-  name: 'hiukim:heapsave',
-  summary: 'Wrapper around googleapis.drive',
-  version: '0.1.5',
-  git: 'https://github.com/arunoda/meteor-heapsave'
+  name: 'npvn:heapsave',
+  version: '0.1.6',
+  git: 'https://github.com/npvn/meteor-heapsave'
 });
 
 Npm.depends({
